@@ -2,7 +2,7 @@
 I built Harvestify, a MERN stack auction platform with custom bidding algorithms, designed to create a transparent and efficient experience for farmers and buyers in the agricultural sector.
 
 ## Live Link:
-https://harvestify-frontend.vercel.app/
+https://harvestify-seven.vercel.app/
 
 
 ## Back-end repository:
